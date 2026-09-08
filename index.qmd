@@ -6,4 +6,6 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-Will use quarto preview to view changes while working
+Will use quarto preview to view changes while working.
+
+Don't forget to change setting to render into docs instead of the _site default.
